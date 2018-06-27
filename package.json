@@ -1,0 +1,20 @@
+{
+  "name": "hash",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamziniii",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "libsodium-wrappers": "^0.7.3",
+    "node-opus": "^0.3.0",
+    "uws": "^10.148.1"
+  }
+}
