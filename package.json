@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EfferveCent/Hash.git"
+    "url": "git+https://github.com/Hamziniii/Hash.git"
   },
   "author": "Hamziniii",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EfferveCent/Hash/issues"
+    "url": "https://github.com/Hamziniii/Hash/issues"
   },
-  "homepage": "https://github.com/EfferveCent/Hash#readme"
+  "homepage": "https://github.com/Hamziniii/Hash#readme"
 }
